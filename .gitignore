@@ -1,3 +1,0 @@
-__pycache__   # is going to tell git what are all the files and folders that we don't want to put into git
-venv/
-.env
